@@ -1,4 +1,4 @@
-#gitflow demo
+# gitflow demo
 
 An application to show gitflow usage
 
